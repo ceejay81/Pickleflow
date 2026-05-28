@@ -1,0 +1,13 @@
+# Ignore duplicate skill source folder
+/pickleflow-skill
+
+# OS/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
